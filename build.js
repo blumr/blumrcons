@@ -21,7 +21,7 @@ dir.files(rootPath, function (err, files) {
   async.doUntil(function (callback1) {
     allZero = true;
 
-    async.each(files, function (file, callback2) {
+    async.eachSeries(files, function (file, callback2) {
       if (path.extname(file).toLowerCase() === '.svg') {
 
         fs.readFile(file, 'utf8', function (err, data) {
