@@ -1,0 +1,31 @@
+FONTLOG for the Blumrcons fonts
+
+This file provides detailed information on the Blumrcons Font Software.
+This information should be distributed along with the Blumrcons fonts
+and any derivative works.
+
+Basic Font Information
+
+Blumrcons is a Unicode typeface family that supports all languages that
+use the Latin script and its variants, and could be expanded to support other
+scripts.
+
+More specifically, this release supports the Unicode range from e900 to eec0.
+This release contains all icons used in Blumr.
+Please Check README.md for details on how to contribute.
+
+ChangeLog
+
+21 February 2015 Blumrcons version 1.0
+- Initial release
+
+Acknowledgements
+
+N: Gene Diaz Jr
+E: gene@letsblumit.com
+W: http://genediazjr.com
+D: Engineer - codes
+
+N: Jobert Cruz
+E: jobert@letsblumit.com
+D: Designer - original glyphs
