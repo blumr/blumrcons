@@ -51,7 +51,7 @@ npm run build
 * transition from font to svg
 
 ### License
-* All codes are under MIT License - [MIT](https://github.com/letsblumit/blumrcons/blob/master/LICENSE-CODE)
-* All fonts are under SIL Open Font License [SIL OFL 1.1](https://github.com/letsblumit/blumrcons/blob/master/LICENSE-FONT)
-* All graphics are under Creative Commons Attribution 4.0 International [CC-BY 4.0](https://github.com/letsblumit/blumrcons/blob/master/LICENSE-GRAPHICS)
+* All codes are under [MIT License](https://github.com/letsblumit/blumrcons/blob/master/LICENSE-CODE)
+* All fonts are under [SIL Open Font License 1.1](https://github.com/letsblumit/blumrcons/blob/master/LICENSE-FONT)
+* All graphics are under [Creative Commons Attribution 4.0 International CC-BY 4.0](https://github.com/letsblumit/blumrcons/blob/master/LICENSE-GRAPHICS)
 
