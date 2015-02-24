@@ -126,6 +126,7 @@
     <string         name="blumrcon-generic_star">&#xea6e;</string>
     <string     name="blumrcon-generic_settings">&#xea6f;</string>
     <string      name="blumrcon-generic_refresh">&#xea70;</string>
+    <string       name="blumrcon-generic_logout">&#xea77;</string>
     <string      name="blumrcon-generic_history">&#xea71;</string>
     <string        name="blumrcon-generic_block">&#xea72;</string>
     <string       name="blumrcon-generic_search">&#xea73;</string>

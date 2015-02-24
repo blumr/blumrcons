@@ -124,6 +124,7 @@
 #define blumrcon_generic_star         "\uea6e"
 #define blumrcon_generic_settings     "\uea6f"
 #define blumrcon_generic_refresh      "\uea70"
+#define blumrcon_generic_logout       "\uea77"
 #define blumrcon_generic_history      "\uea71"
 #define blumrcon_generic_block        "\uea72"
 #define blumrcon_generic_search       "\uea73"

@@ -124,6 +124,7 @@
 .blumrcon-generic_star:before         { content: "\ea6e"; }
 .blumrcon-generic_settings:before     { content: "\ea6f"; }
 .blumrcon-generic_refresh:before      { content: "\ea70"; }
+.blumrcon-generic_logout:before       { content: "\ea77"; }
 .blumrcon-generic_history:before      { content: "\ea71"; }
 .blumrcon-generic_block:before        { content: "\ea72"; }
 .blumrcon-generic_search:before       { content: "\ea73"; }
