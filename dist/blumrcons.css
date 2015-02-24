@@ -113,7 +113,7 @@
 .blumrcon-generic_upload:before       { content: "\ea63"; }
 .blumrcon-generic_archive:before      { content: "\ea64"; }
 .blumrcon-generic_delete:before       { content: "\ea65"; }
-.blumrcon-ea66_generic_sort:before    { content: "\ea66"; }
+.blumrcon-generic_sort:before         { content: "\ea66"; }
 .blumrcon-generic_edit:before         { content: "\ea67"; }
 .blumrcon-generic_tag:before          { content: "\ea68"; }
 .blumrcon-generic_blumit:before       { content: "\ea69"; }

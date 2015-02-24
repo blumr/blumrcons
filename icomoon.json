@@ -4442,7 +4442,7 @@
 			"properties": {
 				"order": 116,
 				"id": 58,
-				"name": "ea66_generic_sort",
+				"name": "generic_sort",
 				"prevSize": 32,
 				"code": 60006
 			},

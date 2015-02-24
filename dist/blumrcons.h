@@ -113,7 +113,7 @@
 #define blumrcon_generic_upload       "\uea63"
 #define blumrcon_generic_archive      "\uea64"
 #define blumrcon_generic_delete       "\uea65"
-#define blumrcon_ea66_generic_sort    "\uea66"
+#define blumrcon_generic_sort         "\uea66"
 #define blumrcon_generic_edit         "\uea67"
 #define blumrcon_generic_tag          "\uea68"
 #define blumrcon_generic_blumit       "\uea69"

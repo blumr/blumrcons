@@ -115,7 +115,7 @@
     <string       name="blumrcon-generic_upload">&#xea63;</string>
     <string      name="blumrcon-generic_archive">&#xea64;</string>
     <string       name="blumrcon-generic_delete">&#xea65;</string>
-    <string    name="blumrcon-ea66_generic_sort">&#xea66;</string>
+    <string         name="blumrcon-generic_sort">&#xea66;</string>
     <string         name="blumrcon-generic_edit">&#xea67;</string>
     <string          name="blumrcon-generic_tag">&#xea68;</string>
     <string       name="blumrcon-generic_blumit">&#xea69;</string>
