@@ -16,7 +16,13 @@ Please Check README.md for details on how to contribute.
 
 ChangeLog
 
-21 February 2015 Blumrcons version 1.0
+03 March 2015 Blumrcons version 0.1.2
+- Added right kick and my posts
+
+24 February 2015 Blumrcons version 0.1.1
+- Added logout icon
+
+21 February 2015 Blumrcons version 0.1.0
 - Initial release
 
 Acknowledgements
