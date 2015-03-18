@@ -72,6 +72,7 @@
     <string        name="blumrcon-trend_comment">&#xe9e1;</string>
     <string  name="blumrcon-trend_comment_reply">&#xe9e2;</string>
     <string   name="blumrcon-trend_comment_view">&#xe9e3;</string>
+    <string      name="blumrcon-trend_mycomment">&#xe9ec;</string>
     <string         name="blumrcon-trend_mypost">&#xe9eb;</string>
     <string           name="blumrcon-trend_post">&#xe9e4;</string>
     <string       name="blumrcon-trend_favorite">&#xe9e5;</string>
@@ -135,6 +136,7 @@
     <string        name="blumrcon-generic_view1">&#xea74;</string>
     <string        name="blumrcon-generic_view2">&#xea75;</string>
     <string        name="blumrcon-generic_view3">&#xea76;</string>
+    <string         name="blumrcon-generic_info">&#xea78;</string>
     <string           name="blumrcon-misc_click">&#xea90;</string>
     <string           name="blumrcon-misc_touch">&#xea91;</string>
     <string     name="blumrcon-level_comm_male1">&#xeac0;</string>

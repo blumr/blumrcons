@@ -70,6 +70,7 @@
 .blumrcon-trend_comment:before        { content: "\e9e1"; }
 .blumrcon-trend_comment_reply:before  { content: "\e9e2"; }
 .blumrcon-trend_comment_view:before   { content: "\e9e3"; }
+.blumrcon-trend_mycomment:before      { content: "\e9ec"; }
 .blumrcon-trend_mypost:before         { content: "\e9eb"; }
 .blumrcon-trend_post:before           { content: "\e9e4"; }
 .blumrcon-trend_favorite:before       { content: "\e9e5"; }
@@ -133,6 +134,7 @@
 .blumrcon-generic_view1:before        { content: "\ea74"; }
 .blumrcon-generic_view2:before        { content: "\ea75"; }
 .blumrcon-generic_view3:before        { content: "\ea76"; }
+.blumrcon-generic_info:before         { content: "\ea78"; }
 .blumrcon-misc_click:before           { content: "\ea90"; }
 .blumrcon-misc_touch:before           { content: "\ea91"; }
 .blumrcon-level_comm_male1:before     { content: "\eac0"; }
