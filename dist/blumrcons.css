@@ -79,6 +79,11 @@
 .blumrcon-trend_boohit1:before        { content: "\e9e8"; }
 .blumrcon-trend_blumit2:before        { content: "\e9e9"; }
 .blumrcon-trend_boohit2:before        { content: "\e9ea"; }
+.blumrcon-trend_bold:before           { content: "\e9ed"; }
+.blumrcon-trend_italic:before         { content: "\e9ee"; }
+.blumrcon-trend_undeline:before       { content: "\e9ef"; }
+.blumrcon-trend_list_unordered:before { content: "\e9f0"; }
+.blumrcon-trend_list_ordered:before   { content: "\e9f1"; }
 .blumrcon-mood_sad:before             { content: "\ea00"; }
 .blumrcon-mood_angry:before           { content: "\ea01"; }
 .blumrcon-mood_uncomfy:before         { content: "\ea02"; }
@@ -112,6 +117,7 @@
 .blumrcon-checkbox_remove2:before     { content: "\ea4b"; }
 .blumrcon-generic_share:before        { content: "\ea60"; }
 .blumrcon-generic_attach:before       { content: "\ea61"; }
+.blumrcon-generic_attach_photo:before { content: "\ea79"; }
 .blumrcon-generic_image:before        { content: "\ea62"; }
 .blumrcon-generic_upload:before       { content: "\ea63"; }
 .blumrcon-generic_archive:before      { content: "\ea64"; }

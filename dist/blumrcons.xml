@@ -81,6 +81,11 @@
     <string        name="blumrcon-trend_boohit1">&#xe9e8;</string>
     <string        name="blumrcon-trend_blumit2">&#xe9e9;</string>
     <string        name="blumrcon-trend_boohit2">&#xe9ea;</string>
+    <string           name="blumrcon-trend_bold">&#xe9ed;</string>
+    <string         name="blumrcon-trend_italic">&#xe9ee;</string>
+    <string      name="blumrcon-trend_underline">&#xe9ef;</string>
+    <string name="blumrcon-trend_list_unordered">&#xe9f0;</string>
+    <string   name="blumrcon-trend_list_ordered">&#xe9f1;</string>
     <string             name="blumrcon-mood_sad">&#xea00;</string>
     <string           name="blumrcon-mood_angry">&#xea01;</string>
     <string         name="blumrcon-mood_uncomfy">&#xea02;</string>
@@ -114,6 +119,7 @@
     <string     name="blumrcon-checkbox_remove2">&#xea4b;</string>
     <string        name="blumrcon-generic_share">&#xea60;</string>
     <string       name="blumrcon-generic_attach">&#xea61;</string>
+    <string name="blumrcon-generic_attach_photo">&#xea79;</string>
     <string        name="blumrcon-generic_image">&#xea62;</string>
     <string       name="blumrcon-generic_upload">&#xea63;</string>
     <string      name="blumrcon-generic_archive">&#xea64;</string>
