@@ -16,6 +16,10 @@ Please Check README.md for details on how to contribute.
 
 ChangeLog
 
+16 April 2015 Blumrcons version 0.1.5
+- Add popin
+- Add popout
+
 26 March 2015 Blumrcons version 0.1.4
 - Added bold
 - Added italic
