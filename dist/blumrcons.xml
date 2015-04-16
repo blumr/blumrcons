@@ -67,6 +67,8 @@
     <string   name="blumrcon_call_fullscreen_on">&#xe9cc;</string>
     <string  name="blumrcon_call_fullscreen_off">&#xe9cd;</string>
     <string           name="blumrcon_call_pause">&#xe9ce;</string>
+    <string           name="blumrcon_call_popin">&#xe9d0;</string>
+    <string          name="blumrcon_call_popout">&#xe9d1;</string>
     <string          name="blumrcon_call_keypad">&#xe9cf;</string>
     <string          name="blumrcon_trend_viral">&#xe9e0;</string>
     <string        name="blumrcon_trend_comment">&#xe9e1;</string>

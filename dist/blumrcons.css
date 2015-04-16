@@ -65,6 +65,8 @@
 .blumrcon-call_fullscreen_on:before   { content: "\e9cc"; }
 .blumrcon-call_fullscreen_off:before  { content: "\e9cd"; }
 .blumrcon-call_pause:before           { content: "\e9ce"; }
+.blumrcon-call_popin:before           { content: "\e9d0"; }
+.blumrcon-call_popout:before          { content: "\e9d1"; }
 .blumrcon-call_keypad:before          { content: "\e9cf"; }
 .blumrcon-trend_viral:before          { content: "\e9e0"; }
 .blumrcon-trend_comment:before        { content: "\e9e1"; }

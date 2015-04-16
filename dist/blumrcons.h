@@ -65,6 +65,8 @@
 #define blumrcon_call_fullscreen_on   "\ue9cc"
 #define blumrcon_call_fullscreen_off  "\ue9cd"
 #define blumrcon_call_pause           "\ue9ce"
+#define blumrcon_call_popin           "\ue9d0"
+#define blumrcon_call_popout          "\ue9d1"
 #define blumrcon_call_keypad          "\ue9cf"
 #define blumrcon_trend_viral          "\ue9e0"
 #define blumrcon_trend_comment        "\ue9e1"
