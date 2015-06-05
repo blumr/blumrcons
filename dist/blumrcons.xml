@@ -42,6 +42,10 @@
     <string            name="blumrcon_group_add">&#xe981;</string>
     <string            name="blumrcon_chat_send">&#xe9a0;</string>
     <string            name="blumrcon_chat_misc">&#xe9a1;</string>
+    <string          name="blumrcon_chat_season">&#xe9ae;</string>
+    <string   name="blumrcon_chat_international">&#xe9ad;</string>
+    <string         name="blumrcon_chat_sponsor">&#xe9af;</string>
+    <string          name="blumrcon_chat_tbasic">&#xe9ac;</string>
     <string                 name="blumrcon_chat">&#xe9a2;</string>
     <string             name="blumrcon_chat_add">&#xe9a3;</string>
     <string            name="blumrcon_chat_open">&#xe9a4;</string>

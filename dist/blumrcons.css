@@ -40,6 +40,10 @@
 .blumrcon-group_add:before            { content: "\e981"; }
 .blumrcon-chat_send:before            { content: "\e9a0"; }
 .blumrcon-chat_misc:before            { content: "\e9a1"; }
+.blumrcon-chat_season:before          { content: "\e9ae"; }
+.blumrcon-chat_international:before   { content: "\e9ad"; }
+.blumrcon-chat_sponsor:before         { content: "\e9af"; }
+.blumrcon-chat_tbasic:before          { content: "\e9ac"; }
 .blumrcon-chat:before                 { content: "\e9a2"; }
 .blumrcon-chat_add:before             { content: "\e9a3"; }
 .blumrcon-chat_open:before            { content: "\e9a4"; }
