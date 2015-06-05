@@ -16,6 +16,12 @@ Please Check README.md for details on how to contribute.
 
 ChangeLog
 
+05 June 2015 Blumrcons version 0.2.0
+- Added chat tbasic
+- Added chat international
+- Added chat season
+- Added chat sponsor
+
 21 April 2015 Blumrcons version 0.1.6
 - Modified popin
 - Modified popout
