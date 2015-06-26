@@ -16,6 +16,22 @@ Please Check README.md for details on how to contribute.
 
 ChangeLog
 
+26 June 2015 Blumrcons version 0.3.0
+- Modified logo tarsi1
+- Modified logo tarsi2
+- Added generic upload photo
+- Added trend static
+- Added live trend
+- Added live trend new
+- Added live trend play
+- Added live trend stop
+- Added live trend flash
+- Added live trend camera
+- Added live trend viewing
+- Added live trend bookmark
+- Added live trend comments
+- Added live trend hide chat
+
 05 June 2015 Blumrcons version 0.2.0
 - Added chat tbasic
 - Added chat international
