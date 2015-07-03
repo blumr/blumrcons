@@ -16,6 +16,20 @@ Please Check README.md for details on how to contribute.
 
 ChangeLog
 
+03 July 2015 Blumrcons version 0.4.0
+- Modified live trend
+- Modified live trend bookmark
+- Modified live trend comment
+- Modified live trend new
+- Modified upload photo
+- Added generic proceed
+- Added generic constraint
+- Added generic crop
+- Added generic resize
+- Added generic reset
+- Added generic rotate
+- Added generic rotate 90d
+
 26 June 2015 Blumrcons version 0.3.0
 - Modified logo tarsi1
 - Modified logo tarsi2

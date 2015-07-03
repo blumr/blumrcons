@@ -1,7 +1,7 @@
 {
   "name": "blumrcons",
   "author": "LetsBlumIt Corp.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": true,
   "engines": {
     "node": ">=0.10.0"

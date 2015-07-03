@@ -133,6 +133,13 @@
 .blumrcon-checkbox_add2:before         { content: "\ea4a"; }
 .blumrcon-checkbox_remove2:before      { content: "\ea4b"; }
 .blumrcon-generic_share:before         { content: "\ea60"; }
+.blumrcon-generic_reset:before         { content: "\ea83"; }
+.blumrcon-generic_contraint:before     { content: "\ea81"; }
+.blumrcon-generic_crop:before          { content: "\ea82"; }
+.blumrcon-generic_resize:before        { content: "\ea84"; }
+.blumrcon-generic_rotate_90d:before    { content: "\ea85"; }
+.blumrcon-generic_rotate:before        { content: "\ea86"; }
+.blumrcon-generic_proceed:before       { content: "\ea87"; }
 .blumrcon-generic_attach:before        { content: "\ea61"; }
 .blumrcon-generic_attach_photo:before  { content: "\ea79"; }
 .blumrcon-generic_image:before         { content: "\ea62"; }
