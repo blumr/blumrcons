@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="189px" height="189px" viewBox="0 0 189 189" enable-background="new 0 0 189 189" xml:space="preserve">
-<polygon fill="#888888" points="65.814,9.688 65.901,98.229 21.525,53.958 "/>
-<g>
-	<path fill="#888888" d="M126.26,162.984H12v-24h114.26c14.489,0,26.276-11.791,26.276-26.281V89.736
-		c0-14.488-11.787-26.277-26.276-26.277H42.167v-24h84.093c27.723,0,50.276,22.555,50.276,50.277v22.967
-		C176.536,140.428,153.982,162.984,126.26,162.984z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="189" viewBox="0 0 189 189"><path fill="#888" d="M65.814 9.688l.087 88.54-44.37-44.27"/><path fill="#888" d="M126.26 162.984H12v-24h114.26c14.49 0 26.276-11.79 26.276-26.28v-22.97c0-14.487-11.787-26.276-26.276-26.276H42.167v-24h84.093c27.723 0 50.276 22.554 50.276 50.276V112.7c0 27.726-22.554 50.28-50.276 50.28z"/></svg>
