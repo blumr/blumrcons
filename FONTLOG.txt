@@ -16,6 +16,9 @@ Please Check README.md for details on how to contribute.
 
 ChangeLog
 
+07 July 2015 Blumrcons version 0.5.0
+- Added generic rotate 90d ccw
+
 03 July 2015 Blumrcons version 0.4.0
 - Modified live trend
 - Modified live trend bookmark

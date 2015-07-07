@@ -140,6 +140,7 @@
     <string          name="blumrcon_generic_crop">&#xea82;</string>
     <string        name="blumrcon_generic_resize">&#xea84;</string>
     <string    name="blumrcon_generic_rotate_90d">&#xea85;</string>
+    <string name="blumrcon_generic_rotate_90dccw">&#xea7a;</string>
     <string        name="blumrcon_generic_rotate">&#xea86;</string>
     <string       name="blumrcon_generic_proceed">&#xea87;</string>
     <string        name="blumrcon_generic_attach">&#xea61;</string>

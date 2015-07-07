@@ -138,6 +138,7 @@
 #define blumrcon_generic_crop          "\uea82"
 #define blumrcon_generic_resize        "\uea84"
 #define blumrcon_generic_rotate_90d    "\uea85"
+#define blumrcon_generic_rotate_90dccw "\uea7a"
 #define blumrcon_generic_rotate        "\uea86"
 #define blumrcon_generic_proceed       "\uea87"
 #define blumrcon_generic_attach        "\uea61"
