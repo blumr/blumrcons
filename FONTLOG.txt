@@ -16,6 +16,11 @@ Please Check README.md for details on how to contribute.
 
 ChangeLog
 
+21 September 2015 Blumrcons version 0.6.0
+- Added generic geoloc
+- Added live trends stream
+- Fixed unicodes
+
 07 July 2015 Blumrcons version 0.5.0
 - Added generic rotate 90d ccw
 
